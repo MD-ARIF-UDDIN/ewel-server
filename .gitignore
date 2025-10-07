@@ -1,0 +1,47 @@
+# Node.js modules
+node_modules/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database files
+*.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*~
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
+# NPM
+npm-debug.log*
+.npm/
+
+# Testing
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# Serverless (if applicable)
+.serverless/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# macOS
+.DS_Store
